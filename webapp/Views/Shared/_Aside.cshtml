@@ -1,0 +1,57 @@
+﻿
+<aside id="left-panel">
+
+    <!-- User info -->
+    @{ Html.RenderPartial("_CurrentUser"); }
+    <!-- end user info -->
+    
+    <nav>
+        
+        @if((string)Session["CurrentUserRole"] == "Employee")
+        {
+        <ul>
+            <li class="@Html.RouteIf("Expense", "active")">
+                <a><i class="fa fa-stack-overflow"></i> Employee</a>
+            </li>
+            <li class="@Html.RouteIf("Expense", "active")">
+                <a href="@Url.Action("Expenses", "Home")"><i class="fa fa-stack-overflow"></i> Expenses</a>
+            </li>
+            <li class="@Html.RouteIf("Create", "active")">
+                <a href="@Url.Action("CreateExpense", "Employee")"><i class="fa fa-cube"></i> Create Expense</a>
+            </li>
+        </ul>
+        }
+        else if ((string)Session["CurrentUserRole"] == "Manager")
+        {
+            <ul>
+                <li class="@Html.RouteIf("Expense", "active")">
+                    <a><i class="fa fa-stack-overflow"></i> Manager</a>
+                </li>
+                <li class="@Html.RouteIf("Expense", "active")">
+                    <a href="@Url.Action("Expenses", "Home")"><i class="fa fa-stack-overflow"></i> Expenses</a>
+                </li>
+                <li class="@Html.RouteIf("Register", "active")">
+                    <a href="@Url.Action("Register", "Account")"><i class="fa fa-stack-overflow"></i> Create Account</a>
+                </li>
+            </ul>
+        }
+        else if ((string)Session["CurrentUserRole"] == "Accountant")
+        {
+            <ul>
+                <li class="@Html.RouteIf("Expense", "active")">
+                    <a><i class="fa fa-stack-overflow"></i> Accountant</a>
+                </li>
+                <li class="@Html.RouteIf("Expense", "active")">
+                    <a href="@Url.Action("Expenses", "Home")"><i class="fa fa-stack-overflow"></i> Expenses</a>
+                </li>
+            </ul>
+        }
+
+    </nav>
+        
+    <span class="minifyme" data-action="minifyMenu">
+        <i class="fa fa-arrow-circle-left hit"></i>
+    </span>
+
+</aside>
+<!-- END NAVIGATION -->

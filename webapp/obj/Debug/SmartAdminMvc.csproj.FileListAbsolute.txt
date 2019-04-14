@@ -1,0 +1,343 @@
+C:\Source\Repos\smartadminmvc_\webapp\bin\SmartAdminMvc.dll.config
+C:\Source\Repos\smartadminmvc_\webapp\bin\SmartAdminMvc.dll
+C:\Source\Repos\smartadminmvc_\webapp\bin\SmartAdminMvc.pdb
+C:\Source\Repos\smartadminmvc_\webapp\bin\SmartAdminMvc.dll.CodeAnalysisLog.xml
+C:\Source\Repos\smartadminmvc_\webapp\bin\SmartAdminMvc.dll.lastcodeanalysissucceeded
+C:\Source\Repos\smartadminmvc_\webapp\bin\Antlr3.Runtime.dll
+C:\Source\Repos\smartadminmvc_\webapp\bin\EntityFramework.dll
+C:\Source\Repos\smartadminmvc_\webapp\bin\EntityFramework.SqlServer.dll
+C:\Source\Repos\smartadminmvc_\webapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Source\Repos\smartadminmvc_\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Source\Repos\smartadminmvc_\webapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Source\Repos\smartadminmvc_\webapp\bin\Newtonsoft.Json.dll
+C:\Source\Repos\smartadminmvc_\webapp\bin\System.Web.Helpers.dll
+C:\Source\Repos\smartadminmvc_\webapp\bin\System.Web.Mvc.dll
+C:\Source\Repos\smartadminmvc_\webapp\bin\System.Web.Optimization.dll
+C:\Source\Repos\smartadminmvc_\webapp\bin\System.Web.Razor.dll
+C:\Source\Repos\smartadminmvc_\webapp\bin\System.Web.WebPages.Deployment.dll
+C:\Source\Repos\smartadminmvc_\webapp\bin\System.Web.WebPages.dll
+C:\Source\Repos\smartadminmvc_\webapp\bin\System.Web.WebPages.Razor.dll
+C:\Source\Repos\smartadminmvc_\webapp\bin\WebGrease.dll
+C:\Source\Repos\smartadminmvc_\webapp\bin\Antlr3.Runtime.pdb
+C:\Source\Repos\smartadminmvc_\webapp\bin\EntityFramework.xml
+C:\Source\Repos\smartadminmvc_\webapp\bin\EntityFramework.SqlServer.xml
+C:\Source\Repos\smartadminmvc_\webapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Source\Repos\smartadminmvc_\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Source\Repos\smartadminmvc_\webapp\bin\Newtonsoft.Json.xml
+C:\Source\Repos\smartadminmvc_\webapp\bin\System.Web.Helpers.xml
+C:\Source\Repos\smartadminmvc_\webapp\bin\System.Web.Mvc.xml
+C:\Source\Repos\smartadminmvc_\webapp\bin\System.Web.Optimization.xml
+C:\Source\Repos\smartadminmvc_\webapp\bin\System.Web.Razor.xml
+C:\Source\Repos\smartadminmvc_\webapp\bin\System.Web.WebPages.xml
+C:\Source\Repos\smartadminmvc_\webapp\bin\System.Web.WebPages.Deployment.xml
+C:\Source\Repos\smartadminmvc_\webapp\bin\System.Web.WebPages.Razor.xml
+C:\Source\Repos\smartadminmvc_\webapp\obj\Debug\SmartAdminMvc.csprojResolveAssemblyReference.cache
+C:\Source\Repos\smartadminmvc_\webapp\obj\Debug\SmartAdminMvc.dll
+C:\Source\Repos\smartadminmvc_\webapp\obj\Debug\SmartAdminMvc.pdb
+C:\Source\Repos\local\webapp\bin\SmartAdminMvc.dll.config
+C:\Source\Repos\local\webapp\bin\SmartAdminMvc.dll
+C:\Source\Repos\local\webapp\bin\SmartAdminMvc.pdb
+C:\Source\Repos\local\webapp\bin\SmartAdminMvc.dll.CodeAnalysisLog.xml
+C:\Source\Repos\local\webapp\bin\SmartAdminMvc.dll.lastcodeanalysissucceeded
+C:\Source\Repos\local\webapp\bin\Antlr3.Runtime.dll
+C:\Source\Repos\local\webapp\bin\EntityFramework.dll
+C:\Source\Repos\local\webapp\bin\EntityFramework.SqlServer.dll
+C:\Source\Repos\local\webapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Source\Repos\local\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Source\Repos\local\webapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Source\Repos\local\webapp\bin\Newtonsoft.Json.dll
+C:\Source\Repos\local\webapp\bin\System.Web.Helpers.dll
+C:\Source\Repos\local\webapp\bin\System.Web.Mvc.dll
+C:\Source\Repos\local\webapp\bin\System.Web.Optimization.dll
+C:\Source\Repos\local\webapp\bin\System.Web.Razor.dll
+C:\Source\Repos\local\webapp\bin\System.Web.WebPages.Deployment.dll
+C:\Source\Repos\local\webapp\bin\System.Web.WebPages.dll
+C:\Source\Repos\local\webapp\bin\System.Web.WebPages.Razor.dll
+C:\Source\Repos\local\webapp\bin\WebGrease.dll
+C:\Source\Repos\local\webapp\bin\Antlr3.Runtime.pdb
+C:\Source\Repos\local\webapp\bin\EntityFramework.xml
+C:\Source\Repos\local\webapp\bin\EntityFramework.SqlServer.xml
+C:\Source\Repos\local\webapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Source\Repos\local\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Source\Repos\local\webapp\bin\Newtonsoft.Json.xml
+C:\Source\Repos\local\webapp\bin\System.Web.Helpers.xml
+C:\Source\Repos\local\webapp\bin\System.Web.Mvc.xml
+C:\Source\Repos\local\webapp\bin\System.Web.Optimization.xml
+C:\Source\Repos\local\webapp\bin\System.Web.Razor.xml
+C:\Source\Repos\local\webapp\bin\System.Web.WebPages.xml
+C:\Source\Repos\local\webapp\bin\System.Web.WebPages.Deployment.xml
+C:\Source\Repos\local\webapp\bin\System.Web.WebPages.Razor.xml
+C:\Source\Repos\local\webapp\obj\Debug\SmartAdminMvc.csprojResolveAssemblyReference.cache
+C:\Source\Repos\local\webapp\obj\Debug\SmartAdminMvc.dll
+C:\Source\Repos\local\webapp\obj\Debug\SmartAdminMvc.pdb
+C:\Source\Repos\customer\webapp\obj\Debug\SmartAdminMvc.dll
+C:\Source\Repos\customer\webapp\obj\Debug\SmartAdminMvc.pdb
+C:\Source\Repos\customer_2\webapp\obj\Debug\SmartAdminMvc.csprojResolveAssemblyReference.cache
+C:\Source\Repos\customer_2\webapp\obj\Debug\SmartAdminMvc.dll
+C:\Source\Repos\customer_2\webapp\obj\Debug\SmartAdminMvc.pdb
+C:\Source\Repos\customer_2\webapp\bin\SmartAdminMvc.dll.config
+C:\Source\Repos\customer_2\webapp\bin\SmartAdminMvc.dll
+C:\Source\Repos\customer_2\webapp\bin\SmartAdminMvc.pdb
+C:\Source\Repos\customer_2\webapp\bin\SmartAdminMvc.dll.CodeAnalysisLog.xml
+C:\Source\Repos\customer_2\webapp\bin\SmartAdminMvc.dll.lastcodeanalysissucceeded
+C:\Source\Repos\customer_2\webapp\bin\Antlr3.Runtime.dll
+C:\Source\Repos\customer_2\webapp\bin\EntityFramework.dll
+C:\Source\Repos\customer_2\webapp\bin\EntityFramework.SqlServer.dll
+C:\Source\Repos\customer_2\webapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Source\Repos\customer_2\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Source\Repos\customer_2\webapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Source\Repos\customer_2\webapp\bin\Newtonsoft.Json.dll
+C:\Source\Repos\customer_2\webapp\bin\System.Web.Helpers.dll
+C:\Source\Repos\customer_2\webapp\bin\System.Web.Mvc.dll
+C:\Source\Repos\customer_2\webapp\bin\System.Web.Optimization.dll
+C:\Source\Repos\customer_2\webapp\bin\System.Web.Razor.dll
+C:\Source\Repos\customer_2\webapp\bin\System.Web.WebPages.Deployment.dll
+C:\Source\Repos\customer_2\webapp\bin\System.Web.WebPages.dll
+C:\Source\Repos\customer_2\webapp\bin\System.Web.WebPages.Razor.dll
+C:\Source\Repos\customer_2\webapp\bin\WebGrease.dll
+C:\Source\Repos\customer_2\webapp\bin\Antlr3.Runtime.pdb
+C:\Source\Repos\customer_2\webapp\bin\EntityFramework.xml
+C:\Source\Repos\customer_2\webapp\bin\EntityFramework.SqlServer.xml
+C:\Source\Repos\customer_2\webapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Source\Repos\customer_2\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Source\Repos\customer_2\webapp\bin\Newtonsoft.Json.xml
+C:\Source\Repos\customer_2\webapp\bin\System.Web.Helpers.xml
+C:\Source\Repos\customer_2\webapp\bin\System.Web.Mvc.xml
+C:\Source\Repos\customer_2\webapp\bin\System.Web.Optimization.xml
+C:\Source\Repos\customer_2\webapp\bin\System.Web.Razor.xml
+C:\Source\Repos\customer_2\webapp\bin\System.Web.WebPages.xml
+C:\Source\Repos\customer_2\webapp\bin\System.Web.WebPages.Deployment.xml
+C:\Source\Repos\customer_2\webapp\bin\System.Web.WebPages.Razor.xml
+C:\Source\Repos\customer_3\webapp\bin\SmartAdminMvc.dll.config
+C:\Source\Repos\customer_3\webapp\bin\SmartAdminMvc.dll
+C:\Source\Repos\customer_3\webapp\bin\SmartAdminMvc.pdb
+C:\Source\Repos\customer_3\webapp\bin\SmartAdminMvc.dll.CodeAnalysisLog.xml
+C:\Source\Repos\customer_3\webapp\bin\SmartAdminMvc.dll.lastcodeanalysissucceeded
+C:\Source\Repos\customer_3\webapp\bin\Antlr3.Runtime.dll
+C:\Source\Repos\customer_3\webapp\bin\EntityFramework.dll
+C:\Source\Repos\customer_3\webapp\bin\EntityFramework.SqlServer.dll
+C:\Source\Repos\customer_3\webapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Source\Repos\customer_3\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Source\Repos\customer_3\webapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Source\Repos\customer_3\webapp\bin\Newtonsoft.Json.dll
+C:\Source\Repos\customer_3\webapp\bin\System.Web.Helpers.dll
+C:\Source\Repos\customer_3\webapp\bin\System.Web.Mvc.dll
+C:\Source\Repos\customer_3\webapp\bin\System.Web.Optimization.dll
+C:\Source\Repos\customer_3\webapp\bin\System.Web.Razor.dll
+C:\Source\Repos\customer_3\webapp\bin\System.Web.WebPages.Deployment.dll
+C:\Source\Repos\customer_3\webapp\bin\System.Web.WebPages.dll
+C:\Source\Repos\customer_3\webapp\bin\System.Web.WebPages.Razor.dll
+C:\Source\Repos\customer_3\webapp\bin\WebGrease.dll
+C:\Source\Repos\customer_3\webapp\bin\Antlr3.Runtime.pdb
+C:\Source\Repos\customer_3\webapp\bin\EntityFramework.xml
+C:\Source\Repos\customer_3\webapp\bin\EntityFramework.SqlServer.xml
+C:\Source\Repos\customer_3\webapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Source\Repos\customer_3\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Source\Repos\customer_3\webapp\bin\Newtonsoft.Json.xml
+C:\Source\Repos\customer_3\webapp\bin\System.Web.Helpers.xml
+C:\Source\Repos\customer_3\webapp\bin\System.Web.Mvc.xml
+C:\Source\Repos\customer_3\webapp\bin\System.Web.Optimization.xml
+C:\Source\Repos\customer_3\webapp\bin\System.Web.Razor.xml
+C:\Source\Repos\customer_3\webapp\bin\System.Web.WebPages.xml
+C:\Source\Repos\customer_3\webapp\bin\System.Web.WebPages.Deployment.xml
+C:\Source\Repos\customer_3\webapp\bin\System.Web.WebPages.Razor.xml
+C:\Source\Repos\customer_3\webapp\obj\Debug\SmartAdminMvc.csprojResolveAssemblyReference.cache
+C:\Source\Repos\customer_3\webapp\obj\Debug\SmartAdminMvc.dll
+C:\Source\Repos\customer_3\webapp\obj\Debug\SmartAdminMvc.pdb
+C:\Users\onur.bakir\Desktop\arçelik tema\DEVELOPER\netMVC5_version\webapp\obj\Debug\SmartAdminMvc.dll
+C:\Users\onur.bakir\Desktop\arçelik tema\DEVELOPER\netMVC5_version\webapp\obj\Debug\SmartAdminMvc.pdb
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\SmartAdminMvc.dll.config
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\SmartAdminMvc.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\SmartAdminMvc.pdb
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\SmartAdminMvc.dll.CodeAnalysisLog.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\SmartAdminMvc.dll.lastcodeanalysissucceeded
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\Antlr3.Runtime.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\EntityFramework.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\EntityFramework.SqlServer.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\Newtonsoft.Json.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.Helpers.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.Mvc.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.Optimization.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.Razor.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.WebPages.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.WebPages.Razor.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\WebGrease.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\Antlr3.Runtime.pdb
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\EntityFramework.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\EntityFramework.SqlServer.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\Newtonsoft.Json.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.Helpers.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.Mvc.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.Optimization.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.Razor.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.WebPages.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.WebPages.Razor.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\obj\Debug\SmartAdminMvc.csprojResolveAssemblyReference.cache
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\obj\Debug\SmartAdminMvc.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\obj\Debug\SmartAdminMvc.pdb
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Net.Http.Formatting.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.Http.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.Http.WebHost.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Net.Http.Formatting.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.Http.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.Web.Http.WebHost.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\Swashbuckle.Core.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\WebActivatorEx.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım\webapp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\SmartAdminMvc.dll.config
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\SmartAdminMvc.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\SmartAdminMvc.pdb
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\SmartAdminMvc.dll.CodeAnalysisLog.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\SmartAdminMvc.dll.lastcodeanalysissucceeded
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\Antlr3.Runtime.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\EntityFramework.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\EntityFramework.SqlServer.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\Newtonsoft.Json.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\Swashbuckle.Core.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Net.Http.Formatting.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.Helpers.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.Http.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.Http.WebHost.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.Mvc.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.Optimization.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.Razor.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.WebPages.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.WebPages.Razor.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\WebActivatorEx.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\WebGrease.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\Antlr3.Runtime.pdb
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\EntityFramework.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\EntityFramework.SqlServer.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\Newtonsoft.Json.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Net.Http.Formatting.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.Helpers.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.Http.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.Http.WebHost.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.Mvc.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.Optimization.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.Razor.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.WebPages.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\bin\System.Web.WebPages.Razor.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\obj\Debug\SmartAdminMvc.csprojResolveAssemblyReference.cache
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\obj\Debug\SmartAdminMvc.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni başladığım - Copy\webapp\obj\Debug\SmartAdminMvc.pdb
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\SmartAdminMvc.dll.config
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\SmartAdminMvc.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\SmartAdminMvc.pdb
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\SmartAdminMvc.dll.CodeAnalysisLog.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\SmartAdminMvc.dll.lastcodeanalysissucceeded
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Antlr3.Runtime.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\EntityFramework.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\EntityFramework.SqlServer.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Newtonsoft.Json.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Swashbuckle.Core.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Net.Http.Formatting.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Helpers.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Http.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Http.WebHost.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Mvc.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Optimization.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Razor.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.WebPages.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.WebPages.Razor.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\WebActivatorEx.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\WebGrease.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Antlr3.Runtime.pdb
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\EntityFramework.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\EntityFramework.SqlServer.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Newtonsoft.Json.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Net.Http.Formatting.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Helpers.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Http.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Http.WebHost.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Mvc.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Optimization.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Razor.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.WebPages.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.WebPages.Razor.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\obj\Debug\SmartAdminMvc.csprojResolveAssemblyReference.cache
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\obj\Debug\SmartAdminMvc.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\obj\Debug\SmartAdminMvc.pdb
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\ExpenseApplication.Data.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\ExpenseApplication.Engine.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\ExpenseApplication.Data.pdb
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\ExpenseApplication.Engine.pdb
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\SmartAdminMvc.dll.config
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\SmartAdminMvc.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\SmartAdminMvc.pdb
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\SmartAdminMvc.dll.CodeAnalysisLog.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\SmartAdminMvc.dll.lastcodeanalysissucceeded
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Antlr3.Runtime.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\EntityFramework.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\EntityFramework.SqlServer.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\ExpenseApplication.Data.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\ExpenseApplication.Engine.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Newtonsoft.Json.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Swashbuckle.Core.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Net.Http.Formatting.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Helpers.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Http.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Http.WebHost.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Mvc.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Optimization.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Razor.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.WebPages.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.WebPages.Razor.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\WebActivatorEx.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\WebGrease.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\ExpenseApplication.Data.pdb
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\ExpenseApplication.Engine.pdb
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Antlr3.Runtime.pdb
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\EntityFramework.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\EntityFramework.SqlServer.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\Newtonsoft.Json.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Net.Http.Formatting.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Helpers.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Http.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Http.WebHost.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Mvc.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Optimization.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.Razor.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.WebPages.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\bin\System.Web.WebPages.Razor.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\obj\Debug\SmartAdminMvc.csprojResolveAssemblyReference.cache
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\obj\Debug\SmartAdminMvc.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\webapp\obj\Debug\SmartAdminMvc.pdb

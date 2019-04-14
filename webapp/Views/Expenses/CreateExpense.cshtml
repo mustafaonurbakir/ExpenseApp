@@ -1,0 +1,133 @@
+﻿@model ExpenseApplication.Data.Expense
+
+@{
+    ViewBag.Title = "CreateExpense";
+}
+
+<div id="content" ng-app="crudModule" ng-controller="crudController" @*data-ng-init="createnewexpense()"*@>
+    
+    <div class="row">
+        <div class="col-xs-12 col-sm-7 col-md-7 col-lg-4">
+            <h1 class="page-title txt-color-blueDark">
+                <i class="fa fa-calendar fa-fw "></i> 
+                Expenses
+                <span>
+                    >
+                    Create Expense
+                </span>
+            </h1>
+        </div>
+    </div>
+    
+
+    <div class="row" >
+        <div class="col-sm-12 col-md-12 col-lg-3">
+            <!-- new widget -->
+            <div class="jarviswidget jarviswidget-color-blueDark">
+                <header>
+                    <h2> Add Expense </h2>
+                </header>
+                <!-- widget div-->
+                <div>
+                    <div class="widget-body">
+                        <!-- content goes here -->
+                        <form id="add-event-form">
+                            <fieldset>
+                                <div class="form-group">
+                                    <label>Expense Type</label>
+                                    <input class="form-control" id="title" name="title" maxlength="50" type="text" placeholder="Taxi, Dinner" ng-model="ExpenseType">
+                                </div>
+                                <div class="form-group">
+                                    <label>Expense Description</label>
+                                    <textarea class="form-control" placeholder="Please be brief" rows="3" maxlength="40" id="description" ng-model="Description"></textarea>
+                                    <p class="note">Maxlength is set to 50 characters</p>
+                                </div>
+                                <div class="form-group">
+                                    <label>Amount</label>
+                                    <input class="form-control" id="amount" name="title" maxlength="50" type="number" ng-model="Amount">
+                                </div>
+                                <div class="form-group">
+                                    <label>Date</label>
+                                    <input class="form-control" id="amount" name="title" maxlength="50" type="date" ng-model="ExpenseDate">
+                                </div>
+                            </fieldset>
+                            <div class="form-actions">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <button class="btn btn-default" type="button" id="add-event" ng-click="save()">
+                                            Add Expense
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                        <!-- end content -->
+                    </div>
+                </div>
+                <!-- end widget div -->
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-12 col-lg-9">
+            
+            <!-- row -->
+            <div class="row" >
+                <!-- NEW WIDGET START -->
+                <article class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    
+                    <form>
+                        <table id="jqgrid" class="table table-striped table-forum">
+                            <thead>
+                                <tr>
+                                    <th>ExpenseID</th>
+                                    <th>Expense Type</th>
+                                    <th>Description</th>
+                                    <th>Amount</th>
+                                    <th>Date</th>
+                                    <th>Remove</th>
+                                </tr>
+                            </thead>
+                            <tbody ng-repeat="Emp in ExpenseItem"   >
+                                <tr ng-click="get(Emp)" >
+                                    <td> <span>{{Emp.ExpenseId}}</span></td>
+                                    <td> <span>{{Emp.ExpenseType}}</span></td>
+                                    <td> <span>{{Emp.Description}}</span></td>
+                                    <td> <span>{{Emp.Amount}}</span></td>
+                                    <td> <span>{{Emp.ExpenseDate | date }}</span></td>
+                                    <td><button class="glyphicon glyphicon-remove" type="button" style="background-color:transparent" ng-click="delete()"></button></td>
+                                </tr>
+                            </tbody>
+                            
+                        </table>
+                        <div class="form-actions">
+                            <div class="row">
+                                <div>
+                                    TotalAmount = {{TotalAmount}}
+                                </div>
+                                <div class="col-md-12">
+                                    @*<input type="submit" value="Create" class="btn btn-default" />*@
+                                    <button class="btn btn-default" type="button" id="add-event" ng-click="saveform()">
+                                        Complated
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </form>
+                </article>
+                <!-- WIDGET END -->
+            </div>
+            <!-- end row -->
+            
+        </div>
+        
+
+
+    </div>
+
+</div>
+
+<script src="~/Scripts/angular.js"></script>
+<script src="~/Scripts/angular-route.js"></script>
+<script src="~/Scripts/MyScripts/Module.js"></script>
+<script src="~/Scripts/MyScripts/Service.js"></script>
+<script src="~/Scripts/MyScripts/Controller.js"></script>

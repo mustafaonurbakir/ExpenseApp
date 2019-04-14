@@ -1,0 +1,164 @@
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\SmartAdminMvc.dll.config
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\SmartAdminMvc.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\SmartAdminMvc.pdb
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\SmartAdminMvc.dll.CodeAnalysisLog.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\SmartAdminMvc.dll.lastcodeanalysissucceeded
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\Antlr3.Runtime.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\EntityFramework.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\EntityFramework.SqlServer.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\ExpenseApplication.Data.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\ExpenseApplication.Engine.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\Newtonsoft.Json.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\Swashbuckle.Core.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Net.Http.Formatting.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.Helpers.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.Http.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.Http.WebHost.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.Mvc.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.Optimization.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.Razor.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.WebPages.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.WebPages.Razor.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\WebActivatorEx.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\WebGrease.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\ExpenseApplication.Data.pdb
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\ExpenseApplication.Engine.pdb
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\Antlr3.Runtime.pdb
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\EntityFramework.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\EntityFramework.SqlServer.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\Newtonsoft.Json.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Net.Http.Formatting.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.Helpers.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.Http.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.Http.WebHost.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.Mvc.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.Optimization.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.Razor.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.WebPages.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.WebPages.Razor.xml
+C:\Users\onur.bakir\Desktop\Expense App\webapp\obj\Debug\Expense App.csprojResolveAssemblyReference.cache
+C:\Users\onur.bakir\Desktop\Expense App\webapp\obj\Debug\SmartAdminMvc.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\obj\Debug\SmartAdminMvc.pdb
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.4.0.0.0.Fakes.dll
+C:\Users\onur.bakir\Desktop\Expense App\webapp\bin\System.Web.4.0.0.0.Fakes.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\SmartAdminMvc.dll.config
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\SmartAdminMvc.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\SmartAdminMvc.pdb
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\SmartAdminMvc.dll.CodeAnalysisLog.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\SmartAdminMvc.dll.lastcodeanalysissucceeded
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\Antlr3.Runtime.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\EntityFramework.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\EntityFramework.SqlServer.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\ExpenseApplication.Data.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\ExpenseApplication.Engine.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\Newtonsoft.Json.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\Swashbuckle.Core.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Net.Http.Formatting.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.4.0.0.0.Fakes.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.Helpers.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.Http.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.Http.WebHost.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.Mvc.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.Optimization.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.Razor.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.WebPages.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.WebPages.Razor.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\WebActivatorEx.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\WebGrease.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\ExpenseApplication.Data.pdb
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\ExpenseApplication.Data.dll.config
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\ExpenseApplication.Engine.pdb
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\Antlr3.Runtime.pdb
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\EntityFramework.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\EntityFramework.SqlServer.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\Newtonsoft.Json.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Net.Http.Formatting.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.4.0.0.0.Fakes.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.Helpers.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.Http.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.Http.WebHost.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.Mvc.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.Optimization.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.Razor.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.WebPages.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\bin\System.Web.WebPages.Razor.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\obj\Debug\Expense App.csprojResolveAssemblyReference.cache
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\obj\Debug\Expense App.csproj.CoreCompileInputs.cache
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\obj\Debug\SmartAdminMvc.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\webapp\obj\Debug\SmartAdminMvc.pdb
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\SmartAdminMvc.dll.config
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\SmartAdminMvc.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\SmartAdminMvc.pdb
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\SmartAdminMvc.dll.CodeAnalysisLog.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\SmartAdminMvc.dll.lastcodeanalysissucceeded
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\Antlr3.Runtime.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\EntityFramework.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\EntityFramework.SqlServer.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\ExpenseApplication.Data.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\ExpenseApplication.Engine.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\Newtonsoft.Json.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\Swashbuckle.Core.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Net.Http.Formatting.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.4.0.0.0.Fakes.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.Helpers.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.Http.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.Http.WebHost.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.Mvc.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.Optimization.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.Razor.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.WebPages.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.WebPages.Razor.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\WebActivatorEx.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\WebGrease.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\ExpenseApplication.Data.pdb
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\ExpenseApplication.Data.dll.config
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\ExpenseApplication.Engine.pdb
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\Antlr3.Runtime.pdb
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\EntityFramework.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\EntityFramework.SqlServer.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\Newtonsoft.Json.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Net.Http.Formatting.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.4.0.0.0.Fakes.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.Helpers.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.Http.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.Http.WebHost.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.Mvc.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.Optimization.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.Razor.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.WebPages.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\bin\System.Web.WebPages.Razor.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\obj\Debug\Expense App.csprojResolveAssemblyReference.cache
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\obj\Debug\Expense App.csproj.CoreCompileInputs.cache
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\obj\Debug\SmartAdminMvc.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali) - Kopya\Expense App\webapp\obj\Debug\SmartAdminMvc.pdb

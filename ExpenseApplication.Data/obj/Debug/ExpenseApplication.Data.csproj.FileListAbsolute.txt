@@ -1,0 +1,41 @@
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\bin\Debug\ExpenseApplication.Data.dll.config
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\bin\Debug\ExpenseApplication.Data.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\bin\Debug\ExpenseApplication.Data.pdb
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\bin\Debug\EntityFramework.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\bin\Debug\EntityFramework.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\obj\Debug\ExpenseApplication.Data.csprojResolveAssemblyReference.cache
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\obj\Debug\ExpenseApplication.Data.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\obj\Debug\ExpenseApplication.Data.pdb
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\bin\Debug\ExpenseApplication.Data.dll.config
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\bin\Debug\ExpenseApplication.Data.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\bin\Debug\ExpenseApplication.Data.pdb
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\bin\Debug\EntityFramework.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\bin\Debug\EntityFramework.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\obj\Debug\ExpenseApplication.Data.csprojResolveAssemblyReference.cache
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\obj\Debug\ExpenseApplication.Data.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Data\obj\Debug\ExpenseApplication.Data.pdb
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Data\bin\Debug\ExpenseApplication.Data.dll.config
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Data\bin\Debug\ExpenseApplication.Data.dll
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Data\bin\Debug\ExpenseApplication.Data.pdb
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Data\bin\Debug\EntityFramework.dll
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Data\bin\Debug\EntityFramework.xml
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Data\obj\Debug\ExpenseApplication.Data.csprojResolveAssemblyReference.cache
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Data\obj\Debug\ExpenseApplication.Data.dll
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Data\obj\Debug\ExpenseApplication.Data.pdb
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Data\bin\Debug\ExpenseApplication.Data.dll.config
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Data\bin\Debug\ExpenseApplication.Data.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Data\bin\Debug\ExpenseApplication.Data.pdb
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Data\bin\Debug\EntityFramework.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Data\bin\Debug\EntityFramework.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Data\obj\Debug\ExpenseApplication.Data.csprojResolveAssemblyReference.cache
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Data\obj\Debug\ExpenseApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Data\obj\Debug\ExpenseApplication.Data.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Data\obj\Debug\ExpenseApplication.Data.pdb

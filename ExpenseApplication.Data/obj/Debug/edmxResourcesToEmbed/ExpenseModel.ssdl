@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ExpensesDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Config">
+    <Key>
+      <PropertyRef Name="ConfigId" />
+    </Key>
+    <Property Name="ConfigId" Type="int" Nullable="false" />
+    <Property Name="ConfigKey" Type="nchar" MaxLength="10" />
+    <Property Name="ConfigValue" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Expense">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="TotalAmount" Type="real" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ExpenseHistory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ExpenseId" Type="int" Nullable="false" />
+    <Property Name="ExpenseStatusId" Type="int" Nullable="false" />
+    <Property Name="Createdby_UserId" Type="int" Nullable="false" />
+    <Property Name="RejectDefinition" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="ExpenseItem">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ExpenseId" Type="int" Nullable="false" />
+    <Property Name="ExpenseType" Type="nvarchar(max)" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="Amount" Type="real" Nullable="false" />
+    <Property Name="ExpenseDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="ExpenseStatus">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ExpenseStatusName" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Log">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserID" Type="int" />
+    <Property Name="Date" Type="datetime" />
+    <Property Name="Thread" Type="varchar" MaxLength="255" />
+    <Property Name="Level" Type="varchar" MaxLength="50" />
+    <Property Name="Logger" Type="varchar" MaxLength="255" />
+    <Property Name="Message" Type="varchar" MaxLength="8000" />
+    <Property Name="Exception" Type="varchar" MaxLength="8000" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="UserRoleId" Type="int" Nullable="false" />
+    <Property Name="password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="surname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UserRole">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="UserRoleName" Type="nvarchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Expense__UserId__1DE57479">
+    <End Role="User" Type="Self.User" Multiplicity="1" />
+    <End Role="Expense" Type="Self.Expense" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Expense">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ExpenseHi__Creat__1FCDBCEB">
+    <End Role="User" Type="Self.User" Multiplicity="1" />
+    <End Role="ExpenseHistory" Type="Self.ExpenseHistory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ExpenseHistory">
+        <PropertyRef Name="Createdby_UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ExpenseHi__Expen__1ED998B2">
+    <End Role="ExpenseStatus" Type="Self.ExpenseStatus" Multiplicity="1" />
+    <End Role="ExpenseHistory" Type="Self.ExpenseHistory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ExpenseStatus">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ExpenseHistory">
+        <PropertyRef Name="ExpenseStatusId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ExpenseHi__Expen__20C1E124">
+    <End Role="Expense" Type="Self.Expense" Multiplicity="1" />
+    <End Role="ExpenseHistory" Type="Self.ExpenseHistory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Expense">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ExpenseHistory">
+        <PropertyRef Name="ExpenseId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ExpenseIt__Expen__21B6055D">
+    <End Role="Expense" Type="Self.Expense" Multiplicity="1" />
+    <End Role="ExpenseItem" Type="Self.ExpenseItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Expense">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ExpenseItem">
+        <PropertyRef Name="ExpenseId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Log__UserID__22AA2996">
+    <End Role="User" Type="Self.User" Multiplicity="0..1" />
+    <End Role="Log" Type="Self.Log" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Log">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__User__UserRoleId__239E4DCF">
+    <End Role="UserRole" Type="Self.UserRole" Multiplicity="1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserRole">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="UserRoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ExpensesDBModelStoreContainer">
+    <EntitySet Name="Config" EntityType="Self.Config" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Expense" EntityType="Self.Expense" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ExpenseHistory" EntityType="Self.ExpenseHistory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ExpenseItem" EntityType="Self.ExpenseItem" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ExpenseStatus" EntityType="Self.ExpenseStatus" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Log" EntityType="Self.Log" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserRole" EntityType="Self.UserRole" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Expense__UserId__1DE57479" Association="Self.FK__Expense__UserId__1DE57479">
+      <End Role="User" EntitySet="User" />
+      <End Role="Expense" EntitySet="Expense" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ExpenseHi__Creat__1FCDBCEB" Association="Self.FK__ExpenseHi__Creat__1FCDBCEB">
+      <End Role="User" EntitySet="User" />
+      <End Role="ExpenseHistory" EntitySet="ExpenseHistory" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ExpenseHi__Expen__1ED998B2" Association="Self.FK__ExpenseHi__Expen__1ED998B2">
+      <End Role="ExpenseStatus" EntitySet="ExpenseStatus" />
+      <End Role="ExpenseHistory" EntitySet="ExpenseHistory" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ExpenseHi__Expen__20C1E124" Association="Self.FK__ExpenseHi__Expen__20C1E124">
+      <End Role="Expense" EntitySet="Expense" />
+      <End Role="ExpenseHistory" EntitySet="ExpenseHistory" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ExpenseIt__Expen__21B6055D" Association="Self.FK__ExpenseIt__Expen__21B6055D">
+      <End Role="Expense" EntitySet="Expense" />
+      <End Role="ExpenseItem" EntitySet="ExpenseItem" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Log__UserID__22AA2996" Association="Self.FK__Log__UserID__22AA2996">
+      <End Role="User" EntitySet="User" />
+      <End Role="Log" EntitySet="Log" />
+    </AssociationSet>
+    <AssociationSet Name="FK__User__UserRoleId__239E4DCF" Association="Self.FK__User__UserRoleId__239E4DCF">
+      <End Role="UserRole" EntitySet="UserRole" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

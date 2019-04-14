@@ -1,0 +1,34 @@
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Engine.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Engine.pdb
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Data.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Data.pdb
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Engine\bin\Debug\EntityFramework.xml
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Engine\obj\Debug\ExpenseApplication.Engine.csprojResolveAssemblyReference.cache
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Engine\obj\Debug\ExpenseApplication.Engine.dll
+C:\Users\onur.bakir\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Engine\obj\Debug\ExpenseApplication.Engine.pdb
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Engine.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Engine.pdb
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Data.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Data.pdb
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Engine\bin\Debug\EntityFramework.xml
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Engine\obj\Debug\ExpenseApplication.Engine.csprojResolveAssemblyReference.cache
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Engine\obj\Debug\ExpenseApplication.Engine.dll
+C:\Users\MustafaOnur\Desktop\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\netMVC5_version - yeni yaklaşımdan önceki son hali - Copy\ExpenseApplication.Engine\obj\Debug\ExpenseApplication.Engine.pdb
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Engine.dll
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Engine.pdb
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Data.dll
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Data.pdb
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Engine\bin\Debug\EntityFramework.xml
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Engine\obj\Debug\ExpenseApplication.Engine.csprojResolveAssemblyReference.cache
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Engine\obj\Debug\ExpenseApplication.Engine.dll
+C:\Users\onur.bakir\Desktop\Expense App\ExpenseApplication.Engine\obj\Debug\ExpenseApplication.Engine.pdb
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Engine.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Engine.pdb
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Data.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Data.pdb
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Engine\bin\Debug\ExpenseApplication.Data.dll.config
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Engine\bin\Debug\EntityFramework.xml
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Engine\obj\Debug\ExpenseApplication.Engine.csprojResolveAssemblyReference.cache
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Engine\obj\Debug\ExpenseApplication.Engine.csproj.CoreCompileInputs.cache
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Engine\obj\Debug\ExpenseApplication.Engine.dll
+C:\Users\MustafaOnur\Desktop\Staj\veripark\Masraf Uygulaması\Expense App (son günki hali)\Expense App\ExpenseApplication.Engine\obj\Debug\ExpenseApplication.Engine.pdb
